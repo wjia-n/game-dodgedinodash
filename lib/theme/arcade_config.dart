@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'dodgedinodashlollipop',
   tip2Id: 'dodgedinodashtaco',
-  tip1Label: '💛 Buy me a lollipop',
-  tip2Label: '💛 Buy me a taco',
+  tip1Label: '💛 Dodge Dino Dash — Lollipop tip',
+  tip2Label: '💛 Dodge Dino Dash — Taco tip',
 );
